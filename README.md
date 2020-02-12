@@ -5,3 +5,7 @@ validación de lexemas.
 Su funcionalidad principal será el interpretar expresiones regulares permitidas, por medio
 del análisis de un archivo de entrada, el cual contendrá expresiones regulares permitidas
 por el lenguaje.
+
+#Developer: Eduardo Francisco Xoquic Poz
+Carne: 201602478
+email: eduardoxoq@gmail.com
